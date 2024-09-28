@@ -1,0 +1,80 @@
+body{
+padding: 0px;
+margin: 0px;    
+}    
+.nav{
+    background-color: #CBC5EA;
+padding: 100px;
+align-items: center;
+display: flex;
+justify-content: center;
+}
+.btn button{
+background-color: #73628A;
+padding: 8px 25px;
+border: none;
+color: white;
+}
+.btn input{
+    background-color: #BEADD4;
+ border: none;
+ border-radius: 3px;
+ padding: 10px 5px;
+}
+.m{
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:  #313D5A;
+border: none;
+border-radius: 9px;
+padding:0 0 0 5px;
+margin: 5px;
+color: white;
+}
+.m button{
+    background-color: #BEADD4;
+    border: none;
+    padding:5px 12px;
+    color: white;
+    border-radius: 0 9px 9px 0;
+}
+.i{
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:  #313D5A;
+border: none;
+border-radius: 9px;
+padding:0 0 0 5px;
+margin: 5px;
+color: white;   
+}
+.i button{
+    background-color: #BEADD4;
+    border: none;
+    padding:5px 12px;
+    color: white;
+    border-radius: 0 9px 9px 0;   
+}
+.q{
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:  #313D5A;
+border: none;
+border-radius: 9px;
+padding:0 0 0 5px;
+margin: 5px;
+color: white
+}
+.q button{
+    background-color: #BEADD4;
+    border: none;
+    padding:5px 12px;
+    color: white;
+    border-radius: 0 9px 9px 0;     
+}
